@@ -1,6 +1,6 @@
 # Cave-Horror-Project-1
 
-Информация: Перевод квестов в сборке Cave Horror Project 1 (3.2.3a) Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/cave-horror-project)
+Информация: Перевод квестов в сборке Cave Horror Project 1 (3.2.3a+) Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/cave-horror-project)
 
 Установка: Пример для Prism Launcher:
 
